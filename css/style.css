@@ -598,7 +598,7 @@ ol {
 	background: #f5f5f5;
 	-webkit-clip-path: polygon(50% 0, 100% 21%, 100% 100%, 50% 100%, 0 100%, 0% 21%);
 	clip-path: polygon(50% 0, 100% 21%, 100% 100%, 50% 100%, 0 100%, 0% 21%);
-	padding-top: 290px;
+	padding-top: 140px;
 	margin-top: -190px;
 	padding-bottom: 70px;
 }
